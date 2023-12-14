@@ -1,16 +1,12 @@
-### Hi there 👋
+Olá! Sou o Lucas Lima
 
-<!--
-**limalucsdev/limalucsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Não estou trabalhando
+- 🌱 Estudando JavaScript
+- 📫 Contate-me no e-mail: lucas_rj1@hotmail.com
+- 😄 Ele/Dele
+- ⚡ Tricampeão de Jiu-Jitsu e Jogador bem amador de Tênis
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" 
+</div>
