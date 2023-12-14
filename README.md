@@ -2,7 +2,7 @@ Olá! Sou o Lucas Lima
 
 - 🔭 Em busca do primeiro emprego na área
 - 🌱 Estudando JavaScript
-- 📫 Contate-me no e-mail: lucas_rj1@hotmail.com
+- 📫 Contate-me: lucas_rj1@hotmail.com
 - 😄 Ele/Dele
 - ⚡ Tricampeão de Jiu-Jitsu e Jogador bem amador de Tênis
 
