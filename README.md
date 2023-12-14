@@ -1,6 +1,6 @@
 Olá! Sou o Lucas Lima
 
-- 🔭 Não estou trabalhando
+- 🔭 Em busca do primeiro emprego na área
 - 🌱 Estudando JavaScript
 - 📫 Contate-me no e-mail: lucas_rj1@hotmail.com
 - 😄 Ele/Dele
