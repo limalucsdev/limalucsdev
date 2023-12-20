@@ -1,7 +1,7 @@
 Olá! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Lucas Lima
 ==================================================================================================================================
 
-Iniciei minha jornada no desenvolvimento e programação há pouco tempo, porém, minha paixão pela área da tecnologia é duradoura. Meu background acadêmico não está inicialmente ligado à tecnologia, tendo me formado como enfermeiro. No entanto, essa experiência diversificada permitiu-me adquirir habilidades valiosas que posso aplicar de forma única no mundo da tecnologia. Busco unir o conhecimento adquirido na área da saúde com a crescente proficiência em Javascript, a qual venho estudando com dedicação. Acredito firmemente na importância de integrar diferentes perspectivas e conhecimentos para criar soluções inovadoras e eficazes no campo da tecnologia
+Iniciei minha jornada no desenvolvimento e programação há pouco tempo, porém, minha paixão pela área da tecnologia é antiga. Meu background acadêmico não está inicialmente ligado à tecnologia, tendo me formado como enfermeiro. No entanto, essa experiência permitiu-me adquirir habilidades valiosas que posso aplicar de forma única no mundo da tecnologia. Busco unir o conhecimento adquirido na área da saúde com a tecnologia.
 
 * 🌍  I'm based in Rio de Janeiro, Brasil
 * ✉️  You can contact me at [lucas\_rj1@hotmail.com](mailto:lucas_rj1@hotmail.com)
