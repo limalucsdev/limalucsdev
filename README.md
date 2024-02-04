@@ -4,7 +4,7 @@ Olá! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Iniciei minha jornada no desenvolvimento e programação há pouco tempo, porém, minha paixão pela área da tecnologia é antiga. Meu background acadêmico não está inicialmente ligado à tecnologia, tendo me formado como enfermeiro. No entanto, essa experiência permitiu-me adquirir habilidades valiosas que posso aplicar de forma única no mundo da tecnologia. Busco unir o conhecimento adquirido na área da saúde com a tecnologia.
 
 * 🌍   Rio de Janeiro, Brasil
-* ✉️   lucas\_rj1@hotmail.com](mailto:lucas_rj1@hotmail.com
+* ✉️   lucas\_rj1@hotmail.com
 * 🧠  Estou estudando Javascript | Flutter | Dart
 * ⚡  Além do mundo da tecnologia, sou um apaixonado por esportes. Sou Tricampeão Brasileiro de Jiu-Jitsu e campeão Mundial.
 
